@@ -8,14 +8,13 @@
 	as well as fun facts about the World cup through animations (if possible) or outside sources for visualisation.
 
 	# FINAL:
-		For my assignment, I have created two data visualisations for World Cup statistics in terms of the number of goals scored
-		..* Total number of goals scored in each World Cup, 1938-present
-		..* Goals scored by all teams in World Cup 2014
-		The first visualisation is a line graph in which the user can interact with each point on the graph. Each point will 
+	For my assignment, I have created two data visualisations for World Cup statistics in terms of the number of goals scored
+	 - Total number of goals scored in each World Cup, 1938-present
+	 - Goals scored by all teams in World Cup 2014
+	The first visualisation is a line graph in which the user can interact with each point on the graph. Each point will 
 	display the year, total number of goals scored, the country that hosted the competiton and the World Cup champion.
-		The second visualisation is a bar chart of the goals scored by each team. The user can hover over each bar and data corresponding 
+	The second visualisation is a bar chart of the goals scored by each team. The user can hover over each bar and data corresponding 
 	to this	will be displayed.
-
-		Software used to store data: Microsoft Excel
-		Data file type: .csv (comma separated value)
+	Software used to store data: Microsoft Excel
+	Data file type: .csv (comma separated value)
 		
