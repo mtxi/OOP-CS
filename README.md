@@ -1,14 +1,15 @@
 ## Assignment #1
 ##### IDEA (Nov 9 2015):
-...For my OOP Assignment, I plan to choose a dataset which visualises various data 
+For my OOP Assignment, I plan to choose a dataset which visualises various data 
 and statistics for football World Cup from a certain year (undecided). This will investigate data information such
 as the total amount of goals scored for each World Cup, the number of times a continent has been chosen as a 
 host for the World Cup, etc.
-...I hope to display this data using a bar chart and also display other stats on the sketch such as average of some data collected
+
+I hope to display this data using a bar chart and also display other stats on the sketch such as average of some data collected
 as well as fun facts about the World cup through animations (if possible) or outside sources for visualisation.
 
 ###### FINAL:
-...For my assignment, I have created two data visualisations for World Cup statistics in terms of the number of goals scored
+For my assignment, I have created two data visualisations for World Cup statistics in terms of the number of goals scored
 - Total number of goals scored in each World Cup, 1938-present
 - Goals scored by all teams in World Cup 2014
 
@@ -18,4 +19,13 @@ The second visualisation is a bar chart of the goals scored by each team. The us
 to this	will be displayed.
 - Software used to store data: Microsoft Excel
 - Data file type: .csv (comma separated value)
-		
+
+##### SCREENSHOTS
+Main menu - press 1 or 2 to see data visualisation #1 / #2
+![alt text](https://github.com/mtxi/OOP-CS/blob/master/Assignment/screenshots/home.png "Main Menu")
+
+Data Visualisation #1
+![alt text](https://github.com/mtxi/OOP-CS/blob/master/Assignment/screenshots/datav1.png "Data Visualisation #1")
+
+Data Visualisation #2014
+![alt text](https://github.com/mtxi/OOP-CS/blob/master/Assignment/screenshots/datav2.png "Data Visualisation #2")
