@@ -88,9 +88,9 @@ void menu()
     textAlign(CENTER);
     printText("World Cup Statistics (GOALS)", 50, 100);
     fill(173,187,255);
-    printText("1: Total Goals per World Cup", 32, 200);
+    printText(" Press 1: Total Goals, 1930-present", 32, 200);
     fill(54,54,95);
-    printText("2: WC 2014 - Goals Scored Per Team", 32, 300); 
+    printText("Press 2: Goals Scored Per Team, WC 2014", 32, 300); 
     image = loadImage("mascot.png");
     imageMode(CENTER);
     image(image, centX, centY + 130, 400, 250);

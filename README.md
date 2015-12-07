@@ -7,6 +7,7 @@ host for the World Cup, etc.
 
 I hope to display this data using a bar chart and also display other stats on the sketch such as average of some data collected
 as well as fun facts about the World cup through animations (if possible) or outside sources for visualisation.
+***
 
 ###### FINAL:
 For my assignment, I have created two data visualisations for World Cup statistics in terms of the number of goals scored
@@ -17,8 +18,19 @@ The first visualisation is a line graph in which the user can interact with each
 display the year, total number of goals scored, the country that hosted the competiton and the World Cup champion.
 The second visualisation is a bar chart of the goals scored by each team. The user can hover over each bar and data corresponding 
 to this	will be displayed.
-- Software used to store data: Microsoft Excel
-- Data file type: .csv (comma separated value)
+***
+
+###### Features
+- Main menu that allows user to choose which visualisation to display
+- Two distinct visualisations (see screenshots)
+- Generated data using Microsoft Excel 2013
+- Data extracted from official FIFA website / Wikipedia
+- Type of data file loaded to sketch: .csv (comma separated value)
+- Use of classes
+- Custom animations
+- Loaded images from external sources
+
+***
 
 ##### SCREENSHOTS
 Main menu - press 1 or 2 to see data visualisation #1 / #2
@@ -27,5 +39,5 @@ Main menu - press 1 or 2 to see data visualisation #1 / #2
 Data Visualisation #1
 ![alt text](https://github.com/mtxi/OOP-CS/blob/master/Assignment/screenshots/datav1.png "Data Visualisation #1")
 
-Data Visualisation #2014
+Data Visualisation #2
 ![alt text](https://github.com/mtxi/OOP-CS/blob/master/Assignment/screenshots/datav2.png "Data Visualisation #2")

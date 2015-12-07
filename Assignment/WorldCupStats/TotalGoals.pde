@@ -27,7 +27,7 @@ class TotalGoals extends Animations
     background(54,54,95);
     textAlign(CENTER);
     fill(255);
-    printText("Total goals scored in the World cup, 1938-2014", x, height / 12);
+    printText("Total goals scored in the World cup, 1930-2014", x, height / 12);
     stroke(255);
 
     stroke(158, 157, 165);
