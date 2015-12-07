@@ -7,7 +7,7 @@ host for the World Cup, etc.
 I hope to display this data using a bar chart and also display other stats on the sketch such as average of some data collected
 ***
 
-###### FINAL:
+###### FINAL (Dec 7 2015):
 For my assignment, I have created two data visualisations for World Cup statistics in terms of the number of goals scored
 - Total number of goals scored in each World Cup, 1938-present
 - Goals scored by all teams in World Cup 2014
